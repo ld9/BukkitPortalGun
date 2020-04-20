@@ -1,0 +1,7 @@
+main: ch.dlyn.portalgun.PortalGun
+name: PortalGun
+version: 0.1.1
+api-version: 1.13
+commands:
+  portaltest:
+    default: op
